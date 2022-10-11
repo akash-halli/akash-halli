@@ -2,7 +2,7 @@
 - 👀 I’m interested in Travelling 
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 7676600507 whatsup me
+- 📫 How to reach me 7676600507 whatsapp me
 
 <!---
 akash-halli/akash-halli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
