@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akash-halli
-- 👀 I’m interested in Travelling 
-- 🌱 I’m currently learning Data Science 
+- 👀 I’m interested in Travelling  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 7676600507 whatsapp me
 
